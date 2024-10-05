@@ -5,8 +5,13 @@ datarecords).
 
 ## Quickstart
 
-1. Run `npm install`
-2. Run `npm run start`
+1. Run `$ npm install`
+2. Run a demo:
+
+-   Print onto console: `$ npm run demo:index`
+-   WebSocket server on port 8080: `$ npm run demo:server`
+
+3. To clear `.js` files: `$ npm run clear`
 
 ## Reference
 
