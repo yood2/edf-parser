@@ -10,4 +10,6 @@ datarecords).
 
 ## Reference
 
-https://www.edfplus.info/specs/edf.html
+-   Specifications for .edf format: https://www.edfplus.info/specs/edf.html
+-   `test.edf` was generated from:
+    https://github.com/wysiwygroot/edf-data-visualization
